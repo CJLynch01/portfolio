@@ -6,7 +6,7 @@ Welcome to my developer portfolio — a showcase of my work, skills, and profess
 
 ## 🔗 Live Portfolio
 You can view the live site here:  
-[https://www.christopherlynch.tech](https://www.christopherlynch.tech) *(or replace with your actual domain)*
+[https://www.christopherlynch.tech]
 
 ## 🧰 Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), Responsive Design
@@ -17,16 +17,14 @@ You can view the live site here:
 ## 🚀 Featured Projects
 This portfolio highlights several full-stack web apps including:
 - **Immigration Pathways** – a document portal and client dashboard system
+- **Venture Creations** - an e-Commerce website for custom T-shirts
 - **Workout Tracker** – a React-based SPA for planning workout routines
-- *(Add more as you grow)*
 
-## 📄 Resume
-You can [view](files/Resume.pdf) or [download](files/Resume.pdf) my resume directly from the site.
 
 ## 📬 Contact
-- Email: [sonofalynch@yahoo.com](mailto:sonofalynch@yahoo.com)
-- GitHub: [github.com/CJLynch01](https://github.com/CJLynch01)
-- LinkedIn: [linkedin.com/in/christopher-lynch-9935112a7](https://www.linkedin.com/in/christopher-lynch-9935112a7)
+- Email: [sonofalynch@yahoo.com]
+- GitHub: [github.com/CJLynch01]
+- LinkedIn: [linkedin.com/in/christopher-lynch-9935112a7]
 
 ---
 
